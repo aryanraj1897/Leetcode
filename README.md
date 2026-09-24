@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/aryanraj1897/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/aryanraj1897/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Tree
 |  |
 | ------- |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aryanraj1897/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/aryanraj1897/Leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/aryanraj1897/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0876-middle-of-the-linked-list](https://github.com/aryanraj1897/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Prefix Sum
 |  |
 | ------- |
