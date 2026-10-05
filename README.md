@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aryanraj1897/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/aryanraj1897/Leetcode/tree/master/0013-roman-to-integer) |
+| [0141-linked-list-cycle](https://github.com/aryanraj1897/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aryanraj1897/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0904-fruit-into-baskets](https://github.com/aryanraj1897/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aryanraj1897/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/aryanraj1897/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aryanraj1897/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/aryanraj1897/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/aryanraj1897/Leetcode/tree/master/0876-middle-of-the-linked-list) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aryanraj1897/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/aryanraj1897/Leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/aryanraj1897/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/aryanraj1897/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aryanraj1897/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0876-middle-of-the-linked-list](https://github.com/aryanraj1897/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/aryanraj1897/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -114,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/aryanraj1897/Leetcode/tree/master/0088-merge-sorted-array) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/aryanraj1897/Leetcode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
