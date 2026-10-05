@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/aryanraj1897/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/aryanraj1897/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0412-fizz-buzz](https://github.com/aryanraj1897/Leetcode/tree/master/0412-fizz-buzz) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/aryanraj1897/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/aryanraj1897/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Trie
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/aryanraj1897/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/aryanraj1897/Leetcode/tree/master/0013-roman-to-integer) |
 | [0904-fruit-into-baskets](https://github.com/aryanraj1897/Leetcode/tree/master/0904-fruit-into-baskets) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/aryanraj1897/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Math
 |  |
 | ------- |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aryanraj1897/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0904-fruit-into-baskets](https://github.com/aryanraj1897/Leetcode/tree/master/0904-fruit-into-baskets) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/aryanraj1897/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Two Pointers
 |  |
 | ------- |
