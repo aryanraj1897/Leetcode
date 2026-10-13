@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/aryanraj1897/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aryanraj1897/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/aryanraj1897/Leetcode/tree/master/0027-remove-element) |
+| [0039-combination-sum](https://github.com/aryanraj1897/Leetcode/tree/master/0039-combination-sum) |
 | [0088-merge-sorted-array](https://github.com/aryanraj1897/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0485-max-consecutive-ones](https://github.com/aryanraj1897/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0904-fruit-into-baskets](https://github.com/aryanraj1897/Leetcode/tree/master/0904-fruit-into-baskets) |
@@ -140,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/aryanraj1897/Leetcode/tree/master/0002-add-two-numbers) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/aryanraj1897/Leetcode/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
