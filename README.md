@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/aryanraj1897/Leetcode/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/aryanraj1897/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/aryanraj1897/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Sliding Window
@@ -157,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/aryanraj1897/Leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/aryanraj1897/Leetcode/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
