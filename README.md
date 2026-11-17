@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/aryanraj1897/Leetcode/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/aryanraj1897/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/aryanraj1897/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/aryanraj1897/Leetcode/tree/master/0051-n-queens) |
 | [0088-merge-sorted-array](https://github.com/aryanraj1897/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0485-max-consecutive-ones](https://github.com/aryanraj1897/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0904-fruit-into-baskets](https://github.com/aryanraj1897/Leetcode/tree/master/0904-fruit-into-baskets) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/aryanraj1897/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/aryanraj1897/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/aryanraj1897/Leetcode/tree/master/0051-n-queens) |
 ## Greedy
 |  |
 | ------- |
@@ -162,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/aryanraj1897/Leetcode/tree/master/0190-reverse-bits) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/aryanraj1897/Leetcode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
