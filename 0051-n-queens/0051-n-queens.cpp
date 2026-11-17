@@ -1,56 +1,48 @@
 
 class Solution {
 public:
-    void solve(int row, int n, vector<string>& board,
-               vector<vector<string>>& ans,
-               vector<int>& col,
-               vector<int>& leftDiagonal,
-               vector<int>& rightDiagonal) {
+    vector<vector<string>> ans;
+
+    void solve(int row, int n, int col,
+               int leftDiag, int rightDiag,
+               vector<string>& board) {
 
         if (row == n) {
             ans.push_back(board);
             return;
         }
 
-        for (int c = 0; c < n; c++) {
+        int mask = (1 << n) - 1;
 
-            int ld = row + c;
-            int rd = row - c + n - 1;
+        int available = mask & ~(col | leftDiag | rightDiag);
 
-            if (col[c] == 0 &&
-                leftDiagonal[ld] == 0 &&
-                rightDiagonal[rd] == 0) {
+        while (available) {
 
-                board[row][c] = 'Q';
+            int bit = available & -available;
 
-                col[c] = 1;
-                leftDiagonal[ld] = 1;
-                rightDiagonal[rd] = 1;
+            available -= bit;
 
-                solve(row + 1, n, board, ans,
-                      col, leftDiagonal, rightDiagonal);
+            int c = __builtin_ctz(bit);
 
-                board[row][c] = '.';
+            board[row][c] = 'Q';
 
-                col[c] = 0;
-                leftDiagonal[ld] = 0;
-                rightDiagonal[rd] = 0;
-            }
+            solve(row + 1, n,
+                  col | bit,
+                  (leftDiag | bit) << 1,
+                  (rightDiag | bit) >> 1,
+                  board);
+
+            board[row][c] = '.';
         }
     }
 
     vector<vector<string>> solveNQueens(int n) {
 
-        vector<vector<string>> ans;
+        ans.clear();
 
         vector<string> board(n, string(n, '.'));
 
-        vector<int> col(n, 0);
-        vector<int> leftDiagonal(2 * n - 1, 0);
-        vector<int> rightDiagonal(2 * n - 1, 0);
-
-        solve(0, n, board, ans, col,
-              leftDiagonal, rightDiagonal);
+        solve(0, n, 0, 0, 0, board);
 
         return ans;
     }
